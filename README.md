@@ -1,5 +1,5 @@
 # What is this library?
-It solves a few standard problems using backtracking.
+It solves a few standard problems using [backtracking](https://en.wikipedia.org/wiki/Backtracking).
 
 # Which problems are solved here?
 * Sudoku
