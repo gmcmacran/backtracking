@@ -1,7 +1,7 @@
-# Repo overview
+# Repo Overview
 In most recursion algorithms, the next recursive call is known. factorial(8) = 8 * factorial(7).
 In [backtracking](https://en.wikipedia.org/wiki/Backtracking), the ***correct*** next recursive call
-is not known. Each call is tentative. If the tentative call leads to a solution, great.
+is unknown. Each call is tentative. If the tentative call leads to a solution, great.
 If not, the call is undone (backtracked), the argument updated, and another tentative recursive call
 is done.
 
